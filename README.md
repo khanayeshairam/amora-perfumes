@@ -1,5 +1,5 @@
 # amora-perfumes
-# AMORA – Perfume Collection
+# AMORA – Perfume Collection 
 
 Welcome to Amora!
 
